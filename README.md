@@ -2,6 +2,8 @@ ACF YouTube Picker Field
 ================
 Search and select videos on YouTube without leaving the page.
 
+Repository Clone ~ https://wordpress.org/plugins/acf-youtube-picker/
+
 ![ACF YouTube Picker Field](http://www.airesgoncalves.com.br/youtubepicker/acf-youtubepicker-v3.png)
 
 - [Compatibility](#compatibility)
